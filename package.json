@@ -1,5 +1,5 @@
 {
-  "name": "ding-ding",
+  "name": "ding-ding-cli",
   "version": "1.0.0",
   "description": "Type 'ding' command to make a beep.",
   "main": "ding-ding-cli.js",
@@ -16,8 +16,6 @@
   "keywords": [
     "ding",
     "beep",
-    "bop",
-    "bope",
     "boop",
     "cli",
     "console",

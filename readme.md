@@ -1,5 +1,5 @@
 # Install
-`$ npm i -g ding-ding`
+`$ npm i -g ding-ding-cli`
 
 # Usage
 `$ ding`  
