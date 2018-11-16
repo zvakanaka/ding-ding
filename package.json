@@ -1,0 +1,35 @@
+{
+  "name": "ding-ding",
+  "version": "1.0.0",
+  "description": "Type 'ding' command to make a beep.",
+  "main": "ding-ding-cli.js",
+  "bin": {
+    "ding": "./bin/ding.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvakanaka/ding-ding.git"
+  },
+  "keywords": [
+    "ding",
+    "beep",
+    "bop",
+    "bope",
+    "boop",
+    "cli",
+    "console",
+    "alert"
+  ],
+  "author": "Adam Quinton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zvakanaka/ding-ding/issues"
+  },
+  "homepage": "https://github.com/zvakanaka/ding-ding#readme",
+  "dependencies": {
+    "beeper": "^1.1.1"
+  }
+}
