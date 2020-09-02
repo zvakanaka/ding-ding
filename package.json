@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/zvakanaka/ding-ding#readme",
   "dependencies": {
-    "beeper": "^1.1.1"
+    "beeper": "^2.0.0"
   }
 }
